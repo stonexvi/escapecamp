@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/escapecamp/static/css/main.56d8a371.css",
-    "main.js": "/escapecamp/static/js/main.4e694a77.js",
-    "static/js/787.2c535181.chunk.js": "/escapecamp/static/js/787.2c535181.chunk.js",
-    "static/media/background.png": "/escapecamp/static/media/background.22f9010b3081dd9924db.png",
-    "static/media/comingSoon.png": "/escapecamp/static/media/comingSoon.255119edb4a45916bc1e.png",
-    "index.html": "/escapecamp/index.html",
-    "main.56d8a371.css.map": "/escapecamp/static/css/main.56d8a371.css.map",
-    "main.4e694a77.js.map": "/escapecamp/static/js/main.4e694a77.js.map",
-    "787.2c535181.chunk.js.map": "/escapecamp/static/js/787.2c535181.chunk.js.map"
+    "main.css": "/static/css/main.e5312282.css",
+    "main.js": "/static/js/main.857ddaca.js",
+    "static/js/787.2c535181.chunk.js": "/static/js/787.2c535181.chunk.js",
+    "static/media/background.png": "/static/media/background.22f9010b3081dd9924db.png",
+    "static/media/comingSoon.png": "/static/media/comingSoon.255119edb4a45916bc1e.png",
+    "index.html": "/index.html",
+    "main.e5312282.css.map": "/static/css/main.e5312282.css.map",
+    "main.857ddaca.js.map": "/static/js/main.857ddaca.js.map",
+    "787.2c535181.chunk.js.map": "/static/js/787.2c535181.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56d8a371.css",
-    "static/js/main.4e694a77.js"
+    "static/css/main.e5312282.css",
+    "static/js/main.857ddaca.js"
   ]
 }
