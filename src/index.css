@@ -9,6 +9,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url('./background.png');
   background-size: cover;
+  background-attachment:fixed;
+  background-position:center bottom;
 }
 
 code {
@@ -20,7 +22,6 @@ code {
   position: relative;
   width: 100%;
   height: 100%;
-  top: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -31,13 +32,15 @@ code {
 .comingSoon {
   width: 300px;
   margin-bottom: 30px;
-  margin-top: 70px;
+  margin-top: 30px;
 }
 
 .timer {
   font-family: 'Nothing You Could Do';
-  font-size: 43px;
+  font-size: 30px;
   color: white;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .timerLabel {
@@ -45,6 +48,8 @@ code {
   font-size: 15x;
   margin-top: -30px;
   color: white;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .timerLabel:not(:last-child) {
